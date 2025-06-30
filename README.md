@@ -16,9 +16,11 @@ Este projeto utiliza OpenCV e técnicas de visão computacional para detectar e 
 ## 📦 Instalação
 
 Crie um ambiente virtual (opcional, mas recomendado)
-python -m venv venv
-source venv/bin/activate # Linux/macOS
-venv\Scripts\activate.bat # Windows
 
-bash
+- python -m venv venv
+- source venv/bin/activate # Linux/macOS
+- venv\Scripts\activate.bat # Windows
+
+```bash
 pip install opencv-python
+```
